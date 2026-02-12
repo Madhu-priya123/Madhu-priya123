@@ -1,8 +1,8 @@
 # Hey Everyone 👋, I'm Madhu Priya
 
-💻 Aspiring Full Stack & UI/UX Developer | 🌱 Continuous Learner  
-🚀 Passionate about Web Development, ReactJS, Node.js, and Frontend Engineering
-
+Full Stack Developer | Node.js | Express.js | React.js | MongoDB  
+REST API Development | Data Structures | OOP  
+Building scalable backend systems & full-stack applications
 
 ---
 
