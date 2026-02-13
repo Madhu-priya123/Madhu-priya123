@@ -31,6 +31,12 @@ Government Polytechnic for Women, Kadapa — *2020–2023* (GPA: 7.8)
 
 ---
 
+## 🏆 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kallurupriya?theme=dark&font=Baloo&ext=contest)
+
+🔗 Profile: https://leetcode.com/u/kallurupriya/
+---
 ## 💼 Experience
 
 ### 🟣 CODEON Technologies — *Web Developer & UI/UX Intern*  
